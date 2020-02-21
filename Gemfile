@@ -36,7 +36,7 @@ gem 'ish_manager', :github => 'piousbox/ish_manager', :branch => :master # '0.1.
 gem 'ishapi',      :github => 'piousbox/ishapi',      :branch => :master
 gem 'stripe'
 
-gem "devise", "~> 4.3" 
+gem "devise", "~> 4.7" 
 
 gem 'nokogiri', '~> 1.10.4'
 gem 'rspec'       # need this in production
